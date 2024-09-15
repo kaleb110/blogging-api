@@ -1,0 +1,9 @@
+.env
+node_modules/
+*.log
+*.sqlite
+*.db
+*.pnp.js
+.pnp/
+.vscode/
+/prisma/generated/
