@@ -7,3 +7,4 @@ node_modules/
 .pnp/
 .vscode/
 /prisma/generated/
+.vercel
